@@ -1,0 +1,6 @@
+/* Fix a glitch cause by the Twenty Eleven CSS theme */
+
+.travelling_blogger_map img, 
+.travelling_blogger_minimap img {
+	max-width: none;
+}
